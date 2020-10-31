@@ -1,1 +1,1 @@
-Activitées Python
+Activités Python
